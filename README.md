@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://four-card-feature-section-swetshaw.vercel.app/)
+- Live Site URL: [https://four-card-feature-section-swetshaw.vercel.app/](https://four-card-feature-section-swetshaw.vercel.app/)
 
 ## My process
 
@@ -63,7 +63,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@swetshaw](https://www.frontendmentor.io/profile/swetshaw)
 - Twitter - [@shawswetai](https://twitter.com/shawswetai)
 
